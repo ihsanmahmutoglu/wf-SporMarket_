@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SporMarketDataSet1" targetNamespace="http://tempuri.org/SporMarketDataSet1.xsd" xmlns:mstns="http://tempuri.org/SporMarketDataSet1.xsd" xmlns="http://tempuri.org/SporMarketDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SporMarketConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SporMarketConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.wf_SporMarket.Properties.Settings.GlobalReference.Default.SporMarketConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_FaturalarTableAdapter" GeneratorDataComponentClassName="vw_FaturalarTableAdapter" Name="vw_Faturalar" UserDataComponentName="vw_FaturalarTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SporMarketConnectionString (Settings)" DbObjectName="SporMarket.dbo.vw_Faturalar" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT FaturaKodu, FaturaTipi, IslemTipi, Tarih, Ad, Soyad FROM dbo.vw_Faturalar</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="FaturaKodu" DataSetColumn="FaturaKodu" />
+              <Mapping SourceColumn="FaturaTipi" DataSetColumn="FaturaTipi" />
+              <Mapping SourceColumn="IslemTipi" DataSetColumn="IslemTipi" />
+              <Mapping SourceColumn="Tarih" DataSetColumn="Tarih" />
+              <Mapping SourceColumn="Ad" DataSetColumn="Ad" />
+              <Mapping SourceColumn="Soyad" DataSetColumn="Soyad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SporMarketDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SporMarketDataSet1" msprop:Generator_UserDSName="SporMarketDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_Faturalar" msprop:Generator_TableClassName="vw_FaturalarDataTable" msprop:Generator_TableVarName="tablevw_Faturalar" msprop:Generator_TablePropName="vw_Faturalar" msprop:Generator_RowDeletingName="vw_FaturalarRowDeleting" msprop:Generator_RowChangingName="vw_FaturalarRowChanging" msprop:Generator_RowEvHandlerName="vw_FaturalarRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_FaturalarRowDeleted" msprop:Generator_UserTableName="vw_Faturalar" msprop:Generator_RowChangedName="vw_FaturalarRowChanged" msprop:Generator_RowEvArgName="vw_FaturalarRowChangeEvent" msprop:Generator_RowClassName="vw_FaturalarRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FaturaKodu" msprop:Generator_ColumnVarNameInTable="columnFaturaKodu" msprop:Generator_ColumnPropNameInRow="FaturaKodu" msprop:Generator_ColumnPropNameInTable="FaturaKoduColumn" msprop:Generator_UserColumnName="FaturaKodu">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FaturaTipi" msprop:Generator_ColumnVarNameInTable="columnFaturaTipi" msprop:Generator_ColumnPropNameInRow="FaturaTipi" msprop:Generator_ColumnPropNameInTable="FaturaTipiColumn" msprop:Generator_UserColumnName="FaturaTipi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IslemTipi" msprop:Generator_ColumnVarNameInTable="columnIslemTipi" msprop:Generator_ColumnPropNameInRow="IslemTipi" msprop:Generator_ColumnPropNameInTable="IslemTipiColumn" msprop:Generator_UserColumnName="IslemTipi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tarih" msprop:Generator_ColumnVarNameInTable="columnTarih" msprop:Generator_ColumnPropNameInRow="Tarih" msprop:Generator_ColumnPropNameInTable="TarihColumn" msprop:Generator_UserColumnName="Tarih" type="xs:dateTime" />
+              <xs:element name="Ad" msprop:Generator_ColumnVarNameInTable="columnAd" msprop:Generator_ColumnPropNameInRow="Ad" msprop:Generator_ColumnPropNameInTable="AdColumn" msprop:Generator_UserColumnName="Ad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Soyad" msprop:Generator_ColumnVarNameInTable="columnSoyad" msprop:Generator_ColumnPropNameInRow="Soyad" msprop:Generator_ColumnPropNameInTable="SoyadColumn" msprop:Generator_UserColumnName="Soyad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

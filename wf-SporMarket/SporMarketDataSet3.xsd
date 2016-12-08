@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SporMarketDataSet3" targetNamespace="http://tempuri.org/SporMarketDataSet3.xsd" xmlns:mstns="http://tempuri.org/SporMarketDataSet3.xsd" xmlns="http://tempuri.org/SporMarketDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SporMarketConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SporMarketConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.wf_SporMarket.Properties.Settings.GlobalReference.Default.SporMarketConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_IrsaliyelerTableAdapter" GeneratorDataComponentClassName="vw_IrsaliyelerTableAdapter" Name="vw_Irsaliyeler" UserDataComponentName="vw_IrsaliyelerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SporMarketConnectionString (Settings)" DbObjectName="SporMarket.dbo.vw_Irsaliyeler" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT IrsaliyeKodu, IrsaliyeTarihi, IrsaliyeTuru, Unvan FROM dbo.vw_Irsaliyeler</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="IrsaliyeKodu" DataSetColumn="IrsaliyeKodu" />
+              <Mapping SourceColumn="IrsaliyeTarihi" DataSetColumn="IrsaliyeTarihi" />
+              <Mapping SourceColumn="IrsaliyeTuru" DataSetColumn="IrsaliyeTuru" />
+              <Mapping SourceColumn="Unvan" DataSetColumn="Unvan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SporMarketDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SporMarketDataSet3" msprop:Generator_UserDSName="SporMarketDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_Irsaliyeler" msprop:Generator_TableClassName="vw_IrsaliyelerDataTable" msprop:Generator_TableVarName="tablevw_Irsaliyeler" msprop:Generator_TablePropName="vw_Irsaliyeler" msprop:Generator_RowDeletingName="vw_IrsaliyelerRowDeleting" msprop:Generator_RowChangingName="vw_IrsaliyelerRowChanging" msprop:Generator_RowEvHandlerName="vw_IrsaliyelerRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_IrsaliyelerRowDeleted" msprop:Generator_UserTableName="vw_Irsaliyeler" msprop:Generator_RowChangedName="vw_IrsaliyelerRowChanged" msprop:Generator_RowEvArgName="vw_IrsaliyelerRowChangeEvent" msprop:Generator_RowClassName="vw_IrsaliyelerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IrsaliyeKodu" msprop:Generator_ColumnVarNameInTable="columnIrsaliyeKodu" msprop:Generator_ColumnPropNameInRow="IrsaliyeKodu" msprop:Generator_ColumnPropNameInTable="IrsaliyeKoduColumn" msprop:Generator_UserColumnName="IrsaliyeKodu">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IrsaliyeTarihi" msprop:Generator_ColumnVarNameInTable="columnIrsaliyeTarihi" msprop:Generator_ColumnPropNameInRow="IrsaliyeTarihi" msprop:Generator_ColumnPropNameInTable="IrsaliyeTarihiColumn" msprop:Generator_UserColumnName="IrsaliyeTarihi" type="xs:dateTime" />
+              <xs:element name="IrsaliyeTuru" msprop:Generator_ColumnVarNameInTable="columnIrsaliyeTuru" msprop:Generator_ColumnPropNameInRow="IrsaliyeTuru" msprop:Generator_ColumnPropNameInTable="IrsaliyeTuruColumn" msprop:Generator_UserColumnName="IrsaliyeTuru">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Unvan" msprop:Generator_ColumnVarNameInTable="columnUnvan" msprop:Generator_ColumnPropNameInRow="Unvan" msprop:Generator_ColumnPropNameInTable="UnvanColumn" msprop:Generator_UserColumnName="Unvan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

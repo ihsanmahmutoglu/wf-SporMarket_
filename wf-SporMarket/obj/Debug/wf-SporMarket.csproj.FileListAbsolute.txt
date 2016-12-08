@@ -1,0 +1,279 @@
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFatura.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliye.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriler.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaIslemleri.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmDepoIslemleri.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciler.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+c:\users\ibrah\onedrive\belgeler\visual studio 2015\Projects\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaIslemleri.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmDepoIslemleri.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+G:\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+G:\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+G:\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaIslemleri.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmDepoIslemleri.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+G:\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaSorgulama.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+C:\Users\section-1\Desktop\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaSorgulama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+C:\Users\enes\Desktop\New folder\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+G:\New folder\wf-SporMarket\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+G:\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+G:\New folder\wf-SporMarket\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaSorgulama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+D:\İhsan_Kurs_Dosyaları\PROJE\wf-SporMarket_29.09.2016\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaSorgulama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+C:\Users\pc\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\RdlCompile.cache
+C:\Users\section-1\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\RdlCompile.compiled
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+C:\Users\erp_sabah\Desktop\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
+E:\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+E:\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+E:\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe.config
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.exe
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.pdb
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.exe
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\bin\Debug\wf-SporMarket.pdb
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmAnasayfa.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturaDetay.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmFaturalar.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeDetay.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmIrsaliyeler.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciGirisi.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullaniciTanimlama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKullanicisifredegistirme.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMarkalar.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriSorgulama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmMusteriTanımlama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmRaporlama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKasaGunlukSatis.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmKategoriler.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGirisCikis.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmStokGoruntule.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciSorgulama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmTedarikciTanimlama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.frmUrunTanimlama.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf_SporMarket.Properties.Resources.resources
+C:\Users\pc\Documents\Wiessen Uygulamalar_\Benim Yaptıklarım\wf-SporMarket_\wf-SporMarket\obj\Debug\wf-SporMarket.csproj.GenerateResource.Cache
